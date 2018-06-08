@@ -1,2 +1,0 @@
-class PuppyController < App
-end
